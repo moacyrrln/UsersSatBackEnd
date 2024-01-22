@@ -1,0 +1,11 @@
+{
+  "name": "users_back_end",
+  "version": "1.0.0",
+  "description": "## Descrição do Projeto O SAT User Management System é um aplicativo CRUD de backend desenvolvido em Java, utilizando Spring Boot, para gerenciar usuários. Ele permite criar, ler, atualizar e deletar informações de usuários, incluindo nome, e-mail, CPF e telefone.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
